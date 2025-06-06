@@ -1,0 +1,710 @@
+	
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Уретрамол</title>
+<link rel="stylesheet" href="../css/fonts_1.css">
+<link rel="stylesheet" href="../css/bootstrap_1.css">
+<link rel="stylesheet" href="../css/bootstrap.min_1.css">
+<link rel="stylesheet" href="../css/style_1.css">
+<link rel="stylesheet" href="../css/remodal_1.css">
+<link rel="stylesheet" href="../css/remodal-default-theme_1.css">
+<link rel="stylesheet" href="../css/timer_1.css">
+<link rel="stylesheet" href="../css/mob_1.css">
+<link rel="stylesheet" href="../css/bootstrap_col_15_1.css">
+</head>
+
+<body>
+<script>
+                  
+                  $(".all_summ").text("2990 руб. + 1 руб. = 2991 руб.");
+
+
+              </script>
+<div class="bg-header">
+<header class="navbar-topper navbar navbar-static-top bs-docs-nav" id="top" role="banner" style="margin-bottom: 0px;">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            
+            <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+                <div class="row">
+                    <div class="col-lg-9 col-md-9 col-sm-8 col-xs-6 ">
+                        <ul class="nav navbar-nav">
+                            <li><a href="#bolezni">Болезни</a></li>
+                            <li><a href="#abouttov">О товаре</a></li>
+                            <li><a href="#clinisp">испытания</a></li>
+                            <li> <a href="#sost">Состав</a></li>
+                            <li><a href="#mnenvr">Мнение врача</a></li>
+                            <li><a href="#otzivipeople">Отзывы</a></li>
+                            <li><a href="#zakazopl">Заказа и оплата</a></li>
+                        </ul>
+                    </div>
+                      <div class="col-lg-3 col-md-3">
+                        <a href="#zakazopl" class="top-order">оформить заказ</a>
+                      </div>
+                </div>
+            </nav>
+        </div>
+</header>
+  
+    <div class="container" id="zakazopl">
+      <div class="row">
+        <div class="col-lg-offset-5 col-lg-7">
+          <div class="title-header">Уретрамол</div>
+          <p class="title-p">Мужское здоровье начало подводить? Не беда, «Уретрамол» поможет вам!</p>
+          </div>
+            <div class="col-sm-6 col-md-4 col-lg-offset-5 col-lg-3 clock-top">
+              <p class="sale-end-text">До конца акции осталось:</p>
+                <div class="timer">
+                  <div class="block">
+                        <div class="rect ">0</div>
+                        <label for="">дней</label>
+                    </div>
+                    <div class="block">
+                        <div class="rect hours">11</div>
+                        <label for="">часов</label>
+                    </div>
+                    <div class="block">
+                        <div class="rect mins">41</div>
+                        <label for="">минут</label>
+                    </div>
+                    <div class="block">
+                        <div class="rect secs">25</div>
+                        <label for="">секунд</label>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="tovar-header"><div class="sale-lable sale-hd"><span>только</span><br>1 день</div></div>
+            </div>
+            <div class="col-sm-6 col-md-8 col-lg-4">
+                  <div class="form">
+                    <div class="form-inner">
+                        <p class="new-price">Цена: <span class="realPrice">1090 Руб.</span></p>
+<!--                         <p class="old-price">старая цена: <span class="old_price">2180 Руб.</span></p> -->
+                        <form action="order-completed.php" method="post" class="order_all">
+                            <div class="form-group">
+                                <select name="country" class="country_chang form-control">
+                                                                          <option value="RU">Россия</option>
+
+                                    <option value="BY">Беларусь</option>
+                                    <option value="KZ">Казахстан</option>
+                                                                </select>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Ваше ФИО" name="name">
+                            </div>
+                            <div class="form-group">
+                                <input type="text" class="form-control phone_n" placeholder="Номер телефона" name="phone">
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" class="order-btn sub" value="Заказать по акции">
+                                <span style="display:inline-block; padding-top:15px;">* — при заказе 2 упаковок<br></span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<main>
+
+<div class="guarantee">
+            <div class="container">
+                <div class="guarantee-inner">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="guarantee__item gi1">
+                                <p class="guarantee-title">Доставка</p>
+                                <p class="guarantee-text">Быстрая доставка по всей России и СНГ</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="guarantee__item gi2">
+                                <p class="guarantee-title">Оплата</p>
+                                <p class="guarantee-text">Оплата только при получении товара на руки</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="guarantee__item gi3">
+                                <p class="guarantee-title">Гарантия</p>
+                                <p class="guarantee-text">100% Гарантия качества и результата</p>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </div>
+
+<div class="bg-polzaizl pos-rel">
+  <div class="container" id="bolezni">
+    <div class="col-xs-12">
+      <div class="title-polzaizl">Уретрамол <span>поможет</span> излечить:</div>
+    </div>
+      <div class="col-sm-12 col15-md-15 col15-lg-15 ">
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi1"></div>
+                </div>
+                <p class="danger-text1">Простатит</p>
+            </div>
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi2"></div>
+                </div>
+                <p class="danger-text1">Болезнь<br>Пейрони</p>
+            </div>
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi3"></div>
+                </div>
+                <p class="danger-text1">Гормональный дисбаланс</p>
+            </div>
+            <div class="col-sm-offset-2 col-sm-4 col-md-offset-0 col15-md-3 col15-lg-offset-0 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi4"></div>
+                </div>
+                <p class="danger-text1">Уретрит</p>
+            </div>
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi5"></div>
+                </div>
+                <p class="danger-text1">Импотенцию</p>
+            </div>  
+      </div>
+      <div class="col-sm-12 col15-md-15 col15-lg-15">
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi6"></div>
+                </div>
+                <p class="danger-text1">Фимоз</p>
+            </div>
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi7"></div>
+                </div>
+                <p class="danger-text1">Преждевременную эякуляции</p>
+            </div>
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi8"></div>
+                </div>
+                <p class="danger-text1">Стрессы</p>
+            </div>
+            <div class="col-sm-offset-2 col-sm-4 col-md-offset-0 col15-md-3 col15-lg-offset-0 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi9"></div>
+                </div>
+                <p class="danger-text1">Возрастные изменения</p>
+            </div>
+            <div class="col-sm-4 col15-md-3 col15-lg-3 danger__item">
+                <div class="order-box">
+                  <div class="bol-ico oi10"></div>
+                </div>
+                <p class="danger-text1">Малоподвижные сперматозоиды</p>
+            </div>  
+      </div>
+      <div class="button-down"></div>
+  </div>
+</div>
+
+<div class="unisr-bg">
+  <div class="container" id="abouttov">
+      <div class="col-xs-offset-1 col-xs-11">
+        <div class="title-unisr">
+          Препарат <span>«Уретрамол»</span> на основе можжевельника и дубовой коры представляет собой уникальное средство, которое:
+        </div>
+      </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+          <div class="about">
+            <div class="col-sm-7 col-md-5 col-lg-5">
+              <div class="pen-bg"></div>
+            </div>
+            <div class="col-xs 12 col-sm-5 col-md-6 col-lg-6" style="padding: 0px;">
+              <ul class="unisr_ul">
+                <li class="unisr_ul__item">Способствует укреплению мужского иммунитета</li>
+                <li class="unisr_ul__item">Препятствует проникновению и развитию болезнетворной флоры широкого спектра</li>
+                <li class="unisr_ul__item">Улучшает потенцию</li>
+                <li class="unisr_ul__item">Предотвращает преждевременную эякуляцию</li>
+                <li class="unisr_ul__item">Предотвращает возрастной износ и истощение организма</li>
+                <li class="unisr_ul__item">Улучшает качество спермы и подвижность сперматозоидов</li>
+                <li class="unisr_ul__item">Способствует повышению эластичности кожи и скорейшему избавлению от фимоза</li>
+                <li class="unisr_ul__item">Является прекрасным средством профилактики рака предстательной железы, члена и яичек</li>
+                <li class="unisr_ul__item">Способствует беспроблемному зачатию детей в зрелом возрасте</li>
+              </ul>
+            </div>
+              <div class="col-md-1 col-lg-1">
+                <div class="kr-rght"></div>
+              </div>
+          </div>
+        </div>
+  </div>
+</div>
+
+<div class="bg-sostav pos-rel">
+  <div class="container" id="sost">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="title-sost">В состав продукта входят только натуральные <br>природные компоненты!</div>
+      </div>
+      <div class="col-lg-6 col-xs-12">
+            <div class="and-ul_item">
+              <div class="deger_item di-1"></div>
+              <div class="and_text">Можжевельник</div>
+              <div class="and_text-2">Один из первых применяемых человеком антибиотиков. Тонизирует, уничтожает болезнетворные бактерии, способствует укреплению эрекции.</div>
+            </div>
+      </div>
+      <div class="col-lg-6 col-xs-12">
+            <div class="and-ul_item">
+              <div class="deger_item di-2"></div>
+              <div class="and_text">Кора дуба</div>
+              <div class="and_text-2">Активизирует сперматозоиды, обеспечивает длительную стабильную эрекцию, способствует зачатию здоровых детей, блокирует развитие инфекций.</div>
+            </div>
+      </div>
+      <div class="col-lg-6 col-xs-12">
+            <div class="and-ul_item">
+              <div class="deger_item di-3"></div>
+              <div class="and_text">Витамин D</div>
+              <div class="and_text-2">Витамин, обеспечивающий полноценную выработку гормонов и профилактику заболеваний простаты.</div>
+            </div>
+      </div>
+      <div class="col-lg-6 col-xs-12">
+            <div class="and-ul_item">
+              <div class="deger_item di-4"></div>
+              <div class="and_text">Якорцы стелющиеся</div>
+              <div class="and_text-2">Трава, позволяющая вылечить импотенцию психосоматического и соматического характера.</div>
+            </div>
+      </div>
+      <div class="col-lg-6 col-xs-12">
+            <div class="and-ul_item">
+              <div class="deger_item di-5"></div>
+              <div class="and_text">Петрушка</div>
+              <div class="and_text-2">Афродизиак, стимулирующий выработку тестостерона и нормализацию гормонального баналса.</div>
+            </div>
+      </div>
+      <div class="col-lg-6 col-xs-12">
+            <div class="and-ul_item">
+              <div class="deger_item di-6"></div>
+              <div class="and_text">Имбирь</div>
+              <div class="and_text-2">Стимулирует выработку тестостерона и вывод накопившихся токсинов, улучшает качество интимной жизни.</div>
+            </div>
+      </div>
+    </div>
+    <div class="button-down"></div>
+  </div>
+</div>
+
+<div class="zakazur-bg">
+  <div class="container">
+      <div class=" col-sm-12 col-xs-12 col-md-12 col-lg-offset-4 col-lg-8">
+        <div class="title-ft-zakaz">Закажите «Уретрамол» <br>прямо сейчас по выгодной цене!</div>
+        <div class="zak-box">
+            <div class="zak-box-1">
+              <div class="txt-block-ft">
+              <p class="box-txt-salenew">
+                Цена: <span class="realPrice">1090руб.</span>
+              </p>
+<!--               <p class="box-txt-saleold">
+                вместо: <span class="old_price">2180 руб.</span>
+              </p> -->
+              </div>
+                <div class="sale-lable "><span>только</span><br>1 день</div>
+              <div class="tovar-header_1"></div> 
+            </div>
+            <div class="zak-box-2">
+              <p class="sale-end-text bl-clock-ft-p">До конца акции осталось:</p>
+                <div class="timer">
+                  <div class="block">
+                        <div class="rect ">0</div>
+                        <label for="">дней</label>
+                    </div>
+                    <div class="block">
+                        <div class="rect hours">11</div>
+                        <label for="">часов</label>
+                    </div>
+                    <div class="block">
+                        <div class="rect mins">41</div>
+                        <label for="">минут</label>
+                    </div>
+                    <div class="block">
+                        <div class="rect secs">25</div>
+                        <label for="">секунд</label>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <a href="#zakazopl" class="order-btn-1">заказать по акции</a>
+                <span style="display:inline-block; padding-top:15px;">* — при заказе 2 упаковок <br></span>
+            </div>
+      </div>
+  </div>
+</div>
+
+<div class="bg-doc pos-rel">
+  <div class="container" id="mnenvr">
+    <div class="row">
+      <div class="col-xs-12 col-md-8 col-lg-8">
+        <div class="specialist">
+          <h3 class="specialist-title">Мнение специалиста</h3>
+              <p class="specialist-text">Сегодняшний мужчина сталкивается с огромным количеством угроз своему здоровью – начиная от неправильного образа жизни и заканчивая подверженностью различным заболеваниям – от простатита до онкологии. Из-за злоупотребления фастфудом, жирной пищей, малоподвижного образа жизни и, конечно же, колоссального количества стрессов мужчины становятся простатитниками и импотентами уже к 30 годам. Поэтому я призываю всех своих настоящих и будущих пациентов заняться своим здоровьем и начать приём 
+              «Уретрамол» - натурального высокоэффективного препарата, который прекрасно справляется с задачами лечения и профилактики большинства известных науке мужских заболеваний.  Помните, что здоровье у нас одно, и без него мужчина не может таковым называться. Поэтому начинайте заботиться о нём прежде, чем оно подведёт. «Уретрамол» - прекрасный помощник мужскому здоровью в любом возрасте!
+              </p>
+            <p class="specialist-name">Павел Игнатович Бурденко <br><span> уролог, доктор медицинских наук, профессор кафедры урологии</span></p>
+            <img src="../images/pechat_1.png" alt="" class="autograph">
+        </div>
+      </div>
+        <div class="col-md-4 col-lg-4">
+          <div class="img-doc"></div>
+        </div>
+    </div>
+    <div class="button-down"></div>
+  </div>
+</div>
+
+
+<div class="bg-instr pos-rel">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-offset-2 col-lg-10">
+        <div class="title-instr">Применять <span>«Уретрамол»</span> очень просто!</div>
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <div class="col-sm-4 col-md-4 col-lg-offset-2 col-lg-3 instr__item">
+          <div class="instr-box arrow-instr">
+            <div class="instr-ico in1"></div>
+            <p class="instr-text1">Растворите в стакане теплой кипячёной воды</p>
+          </div>
+        </div>
+        <div class="col-sm-4 col-md-4 col-lg-3 instr__item">
+          <div class="instr-box arrow-instr">
+            <div class="instr-ico in2"></div>
+            <p class="instr-text1">Тщательно размешайте <br>и выпейте</p>
+          </div>
+        </div>
+        <div class="col-sm-4 col-md-4 col-lg-3 instr__item">
+          <div class="instr-box ">
+            <div class="instr-ico in3"></div>
+            <p class="instr-text1">Принимайте два раза в день<br> за 30 минут до еды</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="button-down"></div>
+  </div>
+</div>
+
+<div class="rezissl-bg pos-rel">
+  <div class="container" id="clinisp">
+    <div class="col-xs-12">
+      <div class="title-rezissl">Результаты исследований</div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-6 col-lg-6">
+        <div class="issl-1">
+          <div class="graph-1">
+            <div class="tabl-grapf">Количество пациентов, избавившихся от заболеваний</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-6">
+        <div class="issl-1">
+          <div class="graph-2">
+            <div class="tabl-grapf tabl-grapf-2">Пациенты, избавившиеся от сексуальных проблем</div>
+          </div>
+        </div>
+      </div>
+      <div class="button-down"></div>
+    </div>
+  </div>
+</div>
+
+  <div class="container" id="otzivipeople">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="title-com">Отзывы пациентов</div>
+      </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <div class="com-block">
+            <div class="com-img-bl com-img-1"></div>
+            <div class="com-txt">Вадим Мельников, 53 года</div>
+            <div class="com-p">У меня были довольно серьёзные проблемы с тем, что ниже пояса. Вроде бы физически был здоров, а как доходило до секса, так сразу всё на полшестого. Уже не знал, что и делать. Спросил совета в интернете, анонимно, там мне порекомендовали «Уретрамол». Сейчас с эрекцией не только всё <br>в порядке – могу жену несколько часов подряд! Надеюсь, вам это поможет.</div>
+          </div>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <div class="com-block">
+            <div class="com-img-bl com-img-2 com-right"></div>
+            <div class="com-txt com-right">Игорь Брушко, 38 лет </div>
+            <div class="com-p com-right">Лечил простатит – и народными способами, и таблетками. Толку было мало. Ни на что уже не надеялся, ночами почти не спал – и боли мучили, и в туалет чуть ли не каждые пять минут нужно было бегать. Потом как-то почти случайно набрёл на «Уретрамол», оказалось, с него-то и нужно было начинать! Теперь я совершенно здоров.</div>
+          </div>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <div class="com-block">
+            <div class="com-img-bl com-img-3"></div>
+            <div class="com-txt">Алина Сандович, 27 лет</div>
+            <div class="com-p">Мы с мужем хотели завести ребёнка, но никак не получалось. Прошли кучу обследований, вроде бы оба были здоровы, а результата не было. Тогда стали искать альтернативные средства, и «Уретрамол» оказался тем, что нам помогло! Как итог – я в следующем месяце готовлюсь подарить мужу сына. Спасибо «Уретрамолу»!</div>
+          </div>
+        </div>
+        <div class="col-lg-offset-1 col-lg-10">
+          <div class="com-block bord-n">
+            <div class="com-img-bl com-img-4 com-right"></div>
+            <div class="com-txt com-right">Михаил Будкин</div>
+            <div class="com-p com-right">У меня был дерматит на члене. Это было ужасно вдвойне – и потому, что на сексе можно было смело ставить крест, и потому, что всё жутко чесалось. Дерматологи разводили руками – мол, в обычных случаях можно вылечить за неделю, а тут какая-то цепучая зараза. Посоветовали «Уретрамол», причем внутрь, а не в виде мази и т.д. Тут же все пошло на спад – пятна начали проходить, а зуд исчез почти сразу. Я теперь здоров, а дерматологи снова разводят руками.</div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+<div class="bg-best pos-rel">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-md-3 best__item">
+        <div class="best-box">
+          <div class="best-ico bs1"></div>
+          <p class="best-text">Сертифицированный <br>продукт</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3 best__item">
+        <div class="best-box">
+          <div class="best-ico bs2"></div>
+          <p class="best-text">Гарантия <br>выздоровления</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3 best__item">
+        <div class="best-box">
+          <div class="best-ico bs3"></div>
+          <p class="best-text">Эффективная профилактика <br>в любом возрасте</p>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3 best__item">
+        <div class="best-box">
+          <div class="best-ico bs4"></div>
+          <p class="best-text">Натуральный <br>продукт без ГМО</p>
+        </div>
+      </div>
+    </div>
+    <div class="button-down"></div>
+  </div>
+</div>
+
+<div class="bg-footer">
+  <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="title-footer">Мужское здоровье начало подводить?<br> Не беда, «Уретрамол» поможет!</div>
+          </div>
+              <div class="col-xs-12  col-sm-6 col-md-4 col-lg-offset-4 col-lg-4 clock-ft-pa">
+                <p class="sale-end-text ft-clk">До конца акции осталось:</p>
+                  <div class="timer fr-clk">
+                    <div class="block block-1">
+                          <div class="rect rect-1">0</div>
+                          <label for="">дней</label>
+                      </div>
+                      <div class="block block-1">
+                          <div class="rect hours rect-1">11</div>
+                          <label for="">часов</label>
+                      </div>
+                      <div class="block block-1">
+                          <div class="rect mins rect-1">41</div>
+                          <label for="">минут</label>
+                      </div>
+                      <div class="block block-1">
+                          <div class="rect secs rect-2">25</div>
+                          <label for="">секунд</label>
+                      </div>
+                      <div class="clear"></div>
+                  </div>
+                  <div class="tovar-header tovar-ft"><div class="sale-lable sale-ft"><span>только</span><br>1 день</div></div>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-8 col-lg-4">
+                    <div class="form">
+                      <div class="form-inner">
+                          <p class="new-price">Цена: <span class="realPrice">1090 Руб.</span></p>
+                          <!-- <p class="old-price">старая цена: <span class="old_price">2180 Руб.</span></p> -->
+                          <form action="order-completed.php" method="post" class="order_all2">
+                              <div class="form-group">
+                                  <select name="country" class="country_chang form-control">
+                                                                            <option value="RU">Россия</option>
+
+                                    <option value="BY">Беларусь</option>
+                                    <option value="KZ">Казахстан</option>
+                                                                  </select>
+                              </div>
+                              <div class="form-group">
+                                  <input type="text" class="form-control" placeholder="Ваше ФИО" name="name">
+                              </div>
+                              <div class="form-group">
+                                  <input type="text" class="form-control phone_n2" placeholder="Номер телефона" name="phone">
+                              </div>
+                              <div class="form-group">
+                                  <input type="submit" class="order-btn sub2" value="Заказать по акции">
+                                  <span style="display:inline-block; padding-top:15px;">* — при заказе 2 упаковок<br></span>
+                              </div>
+                          </form>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+</div>
+
+</div></main>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <p class="rek-footer">
+        <noindex>Fuze Lab Corp.<br>
++7 (495) 191-96-95</noindex>        </p>
+        <a href="#modal" class="footer-a ">Политика конфиденциальности</a>
+      </div>
+    </div>
+  </div>
+
+
+<div class="remodal-wrapper remodal-is-closed" style="display: none;">
+    <div class="remodal remodal-is-initialized remodal-is-closed" data-remodal-id="modal" role="dialog" aria-labelledby="modal1Title" aria-describedby="modal1Desc" tabindex="-1">
+      <button data-remodal-action="close" class="remodal-close" aria-label="Close"></button>
+      <div>
+        <h2 id="modal1Title">Политика конфиденциальности</h2>
+        <p id="modal1Desc">
+          Наш интернет-магазин уважительно относится к правам клиента. Соблюдается строгая конфиденциальность при оформлении заказа. Сведения надёжно сохраняются и защищены от передачи. Согласием на обработку данных клиента исключительно с целью оказания услуг является размещение заказа на сайте.
+
+    К персональным данным относится личная информация о клиенте: домашний адрес; имя, фамилия, отчество; сведения о рождении; имущественное, семейное положение; личные контакты (телефон, электронная почта) и прочие сведения, которые перечислены в Законе РФ № 152-ФЗ «О персональных данных» от 27 июля 2006 г. Клиент вправе отказаться от обработки персональных данных. Нами в данном случае гарантируется удаление с сайта всех персональных данных в трёхдневный срок в рабочее время. Подобный отказ клиент может оформить простым электронным письмом на адрес, указанный на странице нашего сайта.
+        </p>
+      </div>
+    </div>
+</div>
+
+</footer>
+
+
+
+<script type="dropdown.js"></script>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/countdown_1.js"></script>
+<script src="../js/button_1.js"></script>	
+<script src="../js/bootstrap.min_1.js"></script>  
+<script src="../js/remodal.min_1.js"></script>  
+<script src="../js/smooth_1.js"></script>  
+
+<script>
+  $(document).scroll(function () {
+    var y = $(this).scrollTop();
+    if (y > 730) {
+        $('.navbar-topper').fadeIn();
+    } else {
+        $('.navbar-topper').fadeOut();
+    }
+
+});
+</script>
+<script>
+                  
+
+                  $(".summ_dos").text("500 Руб.");
+                  $(".realPrice").text("1 Руб.");
+				  $(".old_price").text("0 Руб.");
+                  $(".summ_total").text("3491 Руб.");
+				  $(".phone").text("");	
+
+
+              </script>
+              <script type="text/javascript">
+                  $('.country_chang').change(function(){
+//alert('11');
+                      var idstrana = $(this).val();
+if(idstrana=='RU'){
+	
+	 $(".all_summ").text("2990 руб. + 1 руб. = 2991 руб.");
+}
+else{
+	                 
+
+	$(".all_summ").text("16480 тенге. + 5 тенге. = 16485 тенге.");
+}
+                      switch (idstrana) {
+                          
+                          case 'RU':
+                              $(".summ_dos").text("500 Руб.");
+                              $(".realPrice").text("1 Руб.");
+							  $(".old_price").text("0 Руб.");
+                              $(".totalPrice").text("3491 Руб.");
+							  $(".phone").text("");
+                              break;
+                          
+                          case 'BY':
+                              $(".summ_dos").text("0 бел.руб.");
+                              $(".realPrice").text("1 бел.руб.");
+							  $(".old_price").text("0 бел.руб.");
+                              $(".totalPrice").text("1 бел.руб.");
+							  $(".phone").text("");
+                              break;
+                          
+                          case 'KZ':
+                              $(".summ_dos").text("1500 тенге");
+                              $(".realPrice").text("5 тенге");
+							  $(".old_price").text("0 тенге");
+                              $(".totalPrice").text("17985 тенге");
+							  $(".phone").text("");
+                              break;
+                                                }
+                  });
+              </script>
+	<script>
+$('.sub').click(function(){
+	var s = $('.phone_n').val();
+	s = s.replace(/[^0-9]/g, "");
+	var str = s.length;
+	if(str<11)
+	{
+	event.preventDefault();
+	alert('Введите правильный номер телефона');
+	}
+	else
+	{
+	$('.order_all').submit();
+	}
+});
+$('.sub2').click(function(){
+	var s = $('.phone_n2').val();
+	s = s.replace(/[^0-9]/g, "");
+	var str = s.length;
+	if(str<11)
+	{
+	event.preventDefault();
+	alert('Введите правильный номер телефона');
+	}
+	else
+	{
+	$('.order_all2').submit();
+	}
+});
+$('.sub3').click(function(){
+	var s = $('.phone_n3').val();
+	s = s.replace(/[^0-9]/g, "");
+	var str = s.length;
+	if(str<11)
+	{
+	event.preventDefault();
+	alert('Введите правильный номер телефона');
+	}
+	else
+	{
+	$('.order_all3').submit();
+	}
+});
+</script>
+</body>
+</html>
+
