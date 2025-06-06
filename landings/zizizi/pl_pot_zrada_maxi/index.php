@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="pl">
+
+<head>
+
+
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<title>97% kobiet po 40. roku życia uważa zdradę za uzasadnioną, jeśli mężczyzna ma problemy z potencją lub nie zapewnia satysfakcjonującego seksu.</title>
+
+<meta
+	content="97% жінок старших за 40 років вважають зраду виправданою, якщо у чоловіка проблеми з потенцією або він не може забезпечити якісний секс."
+	name="description">
+
+	<link href="prod.png" rel="icon" type="image/x-icon">
+	<link rel="stylesheet" href="css/fixed_header_v_1723718520.css">
+    <link rel="stylesheet" href="css/global_v_1723718520.css">
+    <link rel="stylesheet" href="css/index-global_v_1723718520.css">
+	<link href="css/style.css" rel="stylesheet">
+
+
+
+	
+	
+	
+
+	<style>
+		.bel-footer-block {
+			background-color: #2f3543;
+			padding: 0;
+			padding-top: 50px;
+			padding-bottom: 50px;
+			font-size: 16px;
+			font-family: Arial, sans-serif !important;
+			box-sizing: border-box;
+			margin: 0;
+			outline: 1px solid #2f3543
+		}
+
+		.bel-footer-block * {
+			font-family: Arial, sans-serif !important;
+			box-sizing: border-box;
+			margin: 0;
+			padding: 0;
+			text-transform: none;
+		}
+
+		.bel-container {
+			display: flex;
+			position: relative
+		}
+
+		.footer-block-left {
+			width: 100%;
+			display: flex;
+			flex-wrap: wrap;
+			margin-right: auto
+		}
+
+		.footer-left-info {
+			width: 100%;
+			font-size: 16px;
+			line-height: 1.15;
+			color: #666c84;
+			text-align: left
+		}
+
+		.bel-footer-block a {
+			color: #fff;
+			text-decoration: none;
+			transition: .3s
+		}
+
+		.bel-footer-block a:hover {
+			color: #f8de66;
+			transition: .3s
+		}
+
+		.footer-left-title {
+			width: 100%;
+			color: #fff;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0;
+			margin-bottom: 10px;
+			line-height: 1;
+			text-align: left
+		}
+
+		.footer-left-seller {
+			width: 100%;
+			font-size: 16px;
+			display: block;
+			margin-left: 0;
+			margin-bottom: 10px;
+			font-weight: 400;
+			color: #fff;
+			line-height: 1;
+			text-align: left
+		}
+
+		@media (max-width: 991.98px) {
+			.footer-left-title {
+				font-size: 18px
+			}
+		}
+
+		@media (max-width: 767px) {
+			.bel-footer-block {
+				padding-top: 20px;
+				padding-bottom: 20px
+			}
+
+			.bel-container {
+				flex-wrap: wrap
+			}
+
+			.footer-block-left {
+				width: 100%
+			}
+
+			.footer-left-info {
+				font-size: 16px
+			}
+		}
+
+		@media (max-width: 479px) {
+			.footer-left-info {
+				font-size: 14px;
+			}
+		}
+
+		.bel-container {
+			width: 100%;
+			padding-right: 15px;
+			padding-left: 15px;
+			margin-right: auto;
+			margin-left: auto
+		}
+
+		@media (min-width: 576px) {
+			.bel-container {
+				max-width: 540px
+			}
+		}
+
+		@media (min-width: 768px) {
+			.bel-container {
+				max-width: 720px
+			}
+		}
+
+		@media (min-width: 992px) {
+			.bel-container {
+				max-width: 960px
+			}
+		}
+
+		@media (min-width: 1200px) {
+			.bel-container {
+				max-width: 1140px
+			}
+		}
+	</style>
+	<style>
+		.bel-footer-block {
+			background-color: #2f3543;
+			padding: 0;
+			padding-top: 50px;
+			padding-bottom: 50px;
+			font-size: 16px;
+			font-family: Arial, sans-serif !important;
+			box-sizing: border-box;
+			margin: 0;
+			outline: 1px solid #2f3543
+		}
+
+		.bel-footer-block * {
+			font-family: Arial, sans-serif !important;
+			box-sizing: border-box;
+			margin: 0;
+			padding: 0;
+			text-transform: none;
+		}
+
+		.bel-container {
+			display: flex;
+			position: relative
+		}
+
+		.footer-block-left {
+			width: 100%;
+			display: flex;
+			flex-wrap: wrap;
+			margin-right: auto
+		}
+
+		.footer-left-info {
+			width: 100%;
+			font-size: 16px;
+			line-height: 1.15;
+			color: #666c84;
+			text-align: left
+		}
+
+		.bel-footer-block a {
+			color: #fff;
+			text-decoration: none;
+			transition: .3s
+		}
+
+		.bel-footer-block a:hover {
+			color: #f8de66;
+			transition: .3s
+		}
+
+		.footer-left-title {
+			width: 100%;
+			color: #fff;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0;
+			margin-bottom: 10px;
+			line-height: 1;
+			text-align: left
+		}
+
+		.footer-left-seller {
+			width: 100%;
+			font-size: 16px;
+			display: block;
+			margin-left: 0;
+			margin-bottom: 10px;
+			font-weight: 400;
+			color: #fff;
+			line-height: 1;
+			text-align: left
+		}
+
+		@media (max-width:991.98px) {
+			.footer-left-title {
+				font-size: 18px
+			}
+		}
+
+		@media (max-width:767px) {
+			.bel-footer-block {
+				padding-top: 20px;
+				padding-bottom: 20px
+			}
+
+			.bel-container {
+				flex-wrap: wrap
+			}
+
+			.footer-block-left {
+				width: 100%
+			}
+
+			.footer-left-info {
+				font-size: 16px
+			}
+		}
+
+		@media (max-width:479px) {
+			.footer-left-info {
+				font-size: 14px;
+			}
+		}
+
+		.bel-container {
+			width: 100%;
+			padding-right: 15px;
+			padding-left: 15px;
+			margin-right: auto;
+			margin-left: auto
+		}
+
+		@media (min-width:576px) {
+			.bel-container {
+				max-width: 540px
+			}
+		}
+
+		@media (min-width:768px) {
+			.bel-container {
+				max-width: 720px
+			}
+		}
+
+		@media (min-width:992px) {
+			.bel-container {
+				max-width: 960px
+			}
+		}
+
+		@media (min-width:1200px) {
+			.bel-container {
+				max-width: 1140px
+			}
+		}
+	</style>
+	
+	
+
+<title>97% kobiet po 40. roku życia uważa zdradę za uzasadnioną, jeśli mężczyzna ma problemy z potencją lub nie zapewnia satysfakcjonującego seksu.
+</title>
+    <style>
+      /* Стиль для стильного попапу */
+#purchase-popup {
+    position: fixed;
+    top: 8%; /* Відстань від верху */
+    right: 2%; /* Відстань від правого краю */
+    background-color: #ffffff; /* Білий фон */
+    border: 2px solid #4CAF50; /* Зелена рамка */
+    border-radius: 12px; /* Округлені кути */
+    padding: 15px 20px; /* Відступи всередині попапу */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Тінь для створення глибини */
+    z-index: 1000; /* Високий рівень накладання */
+    max-width: 300px; /* Максимальна ширина попапу */
+    font-family: 'Arial', sans-serif; /* Шрифт */
+    font-size: 14px; /* Розмір тексту */
+    color: #333; /* Темний текст */
+    display: none; /* Спочатку приховано */
+    text-align: center; /* Центрування тексту */
+    animation: slideIn 0.5s ease-in-out, slideOut 0.5s ease-in-out 5s; /* Анімація появи та зникнення */
+}
+
+#purchase-popup p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+#purchase-popup .highlight {
+    font-weight: bold;
+    color: #4CAF50; /* Зелений колір для виділення */
+}
+
+/* Анімація для плавної появи попапу */
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(100%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Анімація для плавного зникнення попапу */
+@keyframes slideOut {
+    from {
+        opacity: 1;
+        transform: translateX(0);
+    }
+    to {
+        opacity: 0;
+        transform: translateX(100%);
+    }
+}
+        /* Стилі для блоку лічильника */
+.counter-text {
+    background-color: #FF0000; /* Червоний фон */
+    color: #FFFFFF; /* Білий текст */
+    font-size: 24px; /* Збільшений розмір шрифту */
+    font-weight: bold; /* Жирний шрифт */
+    padding: 10px 15px; /* Відступи всередині блоку */
+    border-radius: 8px; /* Округлені кути блоку */
+    display: inline-block; /* Для правильного відображення блоку */
+}
+
+/* Виділення жирним шрифтом */
+.highlight {
+    font-weight: bold;
+}
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.js"></script>
+
+
+    <script>
+        let awtag = '';
+        let eventid = '';
+        let conversionId = '';
+
+        let params = (new URL(document.location)).searchParams;
+        let gParam = params.get('g');
+        let eParam = params.get('e');
+
+        if (gParam && eParam) {
+            // Безпечне використання параметрів
+            awtag = 'AW-' + gParam;
+            eventid = '/' + eParam;
+            conversionId = awtag + eventid;
+
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.async = true;
+            script.src = "https://www.googletagmanager.com/gtag/js?id=" + awtag;
+            document.getElementsByTagName('head')[0].appendChild(script);
+
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', awtag);
+        }
+    </script>
+    <script>
+        function gtag_report_conversion(url) {
+            var callback = function () {
+                if (typeof(url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+
+            if (conversionId) {
+                gtag('event', 'conversion', {
+                    'send_to': conversionId,
+                    'event_callback': callback
+                });
+                return false;
+            } else {
+                if (typeof(url) != 'undefined') {
+                    window.location = url;
+                }
+                return false;
+            }
+        }
+    </script>
+
+    <script type="text/javascript">
+        var scroll = 0;
+        window.onscroll = function(){
+            if( scroll != 1 ){
+                scroll = 1;
+                var o = document.createElement("img");
+                o.src = "https://<?php echo file_get_contents('/var/www/binom/domen.php'); ?>/click.php?event6=1";
+                o.referrerPolicy = 'no-referrer-when-downgrade';
+            }
+        }
+    </script>
+
+
+
+
+    <script>
+        function pushToTrackerViaImage(){
+            var pushURL = 'https://<?php echo file_get_contents('/var/www/binom/domen.php'); ?>/click.php?event7=1';
+            var img = document.createElement('img');
+            img.src=pushURL;
+            img.style.display='none';
+            img.referrerPolicy = 'no-referrer-when-downgrade';
+            document.body.appendChild( img );
+        }
+        function pushAfterTimeout(timeout){
+            setTimeout(pushToTrackerViaImage, timeout*1000);
+        }
+        var TIMEOUT_IN_SECONDS = 30;
+        pushAfterTimeout(TIMEOUT_IN_SECONDS);
+    </script>
+
+    <script type='text/javascript'>
+        (function () {
+            let params = (new URL(document.location)).searchParams;
+            let block = '';
+            params.forEach(function (value, key) {
+                block = block + key + '=' + value + '&';
+            });
+
+            let gParam = params.get('g');
+            let eParam = params.get('e');
+            let gclidParam = params.get('gclid');
+
+            var t;
+            try {
+                for (t = 0; 10 > t; ++t) history.pushState({}, "", document.location);
+                onpopstate = function (t) {
+                    if (t.state) {
+
+                        var clickid = '';
+
+                        var spans = document.getElementsByClassName('clickid');
+                        if (spans.length > 0 && spans[0].textContent) {
+                            clickid = spans[0].textContent;
+                        }
+
+                        console.log("clickid зі span:", clickid);
+
+                        let redirectUrl = "domonetka/index.php?cid={clickid}";
+
+                        if (eParam) {
+                            redirectUrl += "&e=" + eParam;
+                        }
+                        if (gParam) {
+                            redirectUrl += "&g=" + gParam;
+                        }
+                        if (gclidParam) {
+                            redirectUrl += "&gclid=" + gclidParam;
+                        }
+
+                        window.location.href = redirectUrl;
+                    }
+                }
+            } catch (o) {
+                console.error("error:", o);
+            }
+        })();
+    </script>
+
+
+</head>
+<body class="ev-date" data-invalid-name-text="Wprowadź poprawne imię!" 
+    data-invalid-phone-text="Wprowadź poprawny numer telefonu, w przeciwnym razie nie będziemy mogli się z Tobą skontaktować!">
+    <div class="page-wrap">
+        <header class="header">
+            <div class="m-cf-fejlec">
+                <div class="m-cf-fejlec_container">
+                    <div class="m-cf-fejlec_container_wrapper">
+                        <ul class="m-cf-fejlec_container_links">
+                            <li class="m-cf-fejlec_container_links_item itemCover">
+                                <button class="m-cf-fejlec_container_links_item_link" data-ga-category="Strona główna"
+                                    data-js-smoothscroll="body" data-js-cemp-cimlap="button" type="button">
+                                    <span class="m-cf-fejlec_container_links_item_link_container">
+                                        <svg class="m-cf-fejlec_container_links_item_link_container_logo" viewBox="-54 12 8 20">
+                                            <path class="m-cf-fejlec_container_links_item_link_container_logo_stem"
+                                                d="M-54 18h8v14h-8V18z" />
+                                            <path class="m-cf-fejlec_container_links_item_link_container_logo_dot"
+                                                d="M-54 12h8v4h-8v-4z" />
+                                        </svg>
+                                        <span
+                                            class="m-cf-fejlec_container_links_item_link_container_label h-visibility-off_medium-down">Strona główna</span>
+                                    </span>
+                                </button>
+                            </li>
+                            <li class="m-cf-fejlec_container_links_item itemHeadings">
+                                <a class="m-cf-fejlec_container_links_item_link" data-ga-category="Sekcje" href="#">
+                                    <span class="m-cf-fejlec_container_links_item_link_container">
+                                        <svg class="m-cf-fejlec_container_links_item_link_container_icon iconHamburger"
+                                            viewBox="0 0 22 17">
+                                            <path
+                                                d="M0 1.5C0 .672.67 0 1.495 0h19.01C21.33 0 22 .666 22 1.5c0 .828-.67 1.5-1.495 1.5H1.495C.67 3 0 2.334 0 1.5zm0 7C0 7.672.67 7 1.495 7h19.01C21.33 7 22 7.666 22 8.5c0 .828-.67 1.5-1.495 1.5H1.495C.67 10 0 9.334 0 8.5zm0 7c0-.828.67-1.5 1.495-1.5h19.01c.826 0 1.495.666 1.495 1.5 0 .828-.67 1.5-1.495 1.5H1.495C.67 17 0 16.334 0 15.5z" />
+                                        </svg>
+                                        <span
+                                            class="m-cf-fejlec_container_links_item_link_container_label h-visibility-off_medium-down">Sekcje</span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="m-cf-fejlec_container_links_item itemLatest">
+                                <a class="m-cf-fejlec_container_links_item_link" data-ga-category="Najnowsze" href="#">
+                                    <span class="m-cf-fejlec_container_links_item_link_container">
+                                        <svg class="m-cf-fejlec_container_links_item_link_container_icon iconClock"
+                                            viewBox="0 0 22 22">
+                                            <path
+                                                d="M11 19.25c-4.557 0-8.25-3.693-8.25-8.25S6.443 2.75 11 2.75s8.25 3.693 8.25 8.25-3.693 8.25-8.25 8.25M11 0C4.925 0 0 4.925 0 11s4.925 11 11 11 11-4.925 11-11S17.075 0 11 0" />
+                                            <path
+                                                d="M12.833 10.89V6.874c0-.76-.616-1.375-1.375-1.375-.76 0-1.375.616-1.375 1.375v5.04h.11l-.11.113 2.27 2.27c.536.535 1.406.535 1.943 0 .538-.538.538-1.41 0-1.946l-1.463-1.463z" />
+                                        </svg>
+                                        <span
+                                            class="m-cf-fejlec_container_links_item_link_container_label h-visibility-off_medium-down">Najnowsze wiadomości</span>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="m-cf-fejlec_container_inda">
+                        <ul class="m-cf-fejlec_container_inda_kiadvanyok">
+                            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                                <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-ga-category="Economx"
+                                    data-target="economx" href="#">Wiadomości</a>
+                            </li>
+                            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                                <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-ga-category="Divany"
+                                    data-target="divany" href="#">Zdrowie</a>
+                            </li>
+                            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                                <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-ga-category="Totalcar"
+                                    data-target="totalcar" href="#">Sport</a>
+                            </li>
+                            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                                <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-ga-category="Femina"
+                                    data-target="femina" href="#">TV</a>
+                            </li>
+                            <li class="m-cf-fejlec_container_inda_kiadvanyok_item">
+                                <a class="m-cf-fejlec_container_inda_kiadvanyok_item_link" data-ga-category="Port"
+                                    data-target="port" href="#">Polityka</a>
+                            </li>
+                        </ul>
+
+		<ul class="m-cf-fejlec_container_inda_actions">
+    <li class="m-cf-fejlec_container_inda_actions_item itemSearch">
+        <button class="m-cf-fejlec_container_inda_actions_item_button" data-ga-category="Szukaj"
+            data-toggle="modal" data-target="[data-js-modal-window=search]" data-js-cemp-search="button"
+            type="button">
+            <span class="m-cf-fejlec_container_inda_actions_item_button_wrapper">
+                <svg class="m-cf-fejlec_container_inda_actions_item_button_wrapper_icon"
+                    viewBox="0 0 21 21">
+                    <path
+                        d="M20.8 18.867c.267.267.267.7 0 .967l-.966.967c-.267.267-.7.267-.966 0L13.5 15.434c-.073-.074-.122-.16-.155-.253-1.39 1.014-3.094 1.62-4.944 1.62-4.64 0-8.4-3.76-8.4-8.4C0 3.76 3.76 0 8.4 0c4.64 0 8.4 3.76 8.4 8.4 0 1.85-.606 3.556-1.62 4.945.092.032.18.08.253.155l5.368 5.367zM8.4 2.8c-3.093 0-5.6 2.507-5.6 5.6 0 3.093 2.507 5.6 5.6 5.6 3.093 0 5.6-2.507 5.6-5.6 0-3.093-2.507-5.6-5.6-5.6z" />
+                </svg>
+            </span>
+        </button>
+    </li>
+</ul>
+
+<div class="fixed-header">
+    <div id="passportHeader" style="height: 36px; " class="_iph_mini">
+        <div class="_iph_fixed-header fixed-header" id="_iph_fixed-header">
+            <div class="fixed-header-container">
+                <ul class="_iph_rgt">
+                    <li>
+                        <a href="#" class="icon icon-harang" id="icon-harang">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#" class="icon icon-kulcs" id="icon-user">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="calendar">
+    <time title="33. hét" datetime="2024-08-15"><script>
+        d = new Date();
+        p = new Date(d.getTime() - 0 * 86400000);
+        monthA =
+            '.01.,.02.,.03.,.04.,.05.,.06.,.07.,.08.,.09.,.10.,.11.,.12.'
+                .split(',');
+        document.write(p.getDate() - 0 + ' ' + monthA[p.getMonth()] + ' ');
+        var d = new Date();
+        document.write(d.getFullYear());
+    </script></time>
+   </div>
+</div>
+
+
+
+		
+					</div>
+		
+					
+		
+				</div>
+			</section>
+		</header>
+		
+<div class="main-content">
+    <div class="content">
+        <div class="content__inner content__inner_wide">
+            <div class="article">
+                
+                <h1 class="article__title">97% kobiet po 40. roku życia uważa zdradę za uzasadnioną, jeśli mężczyzna ma problemy z potencją lub nie zapewnia satysfakcjonującego seksu.
+                </h1>
+
+                <div class="article__text">
+    <div class="js-mediator-article">
+        <div class="article_content">
+            <p>Do takich wniosków doszły anonimowe ankiety przeprowadzone wśród Polek, których partnerzy cierpią na problemy z potencją, przedwczesnym wytryskiem lub mają zbyt małego penisa. Wnioski w pełni pokrywają się z wcześniejszymi wypowiedziami seksuologów: "impotencja seksualna u mężczyzn oraz ich niezdolność do doprowadzenia kobiety do orgazmu niemal zawsze prowadzi do zdrady i jest jedną z najczęstszych przyczyn rozwodu".</p>
+            <p>Nawet jeśli kobieta nigdy wcześniej nie zdradziła partnera ani nie myślała o tym, brak satysfakcji z życia seksualnego „przewraca wszystko w jej głowie” i sprawia, że zdrada staje się nie tylko możliwa, ale i pożądana. Dzieje się tak przez biologiczne procesy zachodzące na poziomie podświadomości.</p>
+            <p>Tak stwierdziła Anna Nowicka, znana seksuolożka, lekarka i doktor nauk medycznych.</p>
+            <figure class="Figure inL_889048">
+                <picture>
+                    <source src="img/content-1.webp" type="image/webp">
+                    <img alt="" src="img/content-1.jpg">
+                </picture>
+                <span class="Figure-caption">Anna Nowicka od 5 lat bada przypadki zdrad wśród kobiet, których partnerzy nie są w stanie ich zaspokoić i które żyją w związkach bez seksu.</span>
+            </figure>
+            <p>„Zdrada ze strony kobiet jest czymś naturalnym, jeśli w związku brakuje udanego seksu lub jeśli kobieta nie otrzymuje od mężczyzny tego, czego potrzebuje. Wyobraź sobie siebie na miejscu tych kobiet. Potrzeba seksu jest fizjologiczna, pragnienie zawsze istnieje i nie da się go pokonać. To uczucie towarzyszy im każdego dnia.”</p>
+            <p>Jak to wpływa na kobietę? Bez możliwości rozładowania napięcia nawet spokojna kobieta może stać się nerwowa i drażliwa. W związku pojawiają się kłótnie, często bez wyraźnego powodu. Im więcej napięć, tym większy dystans między partnerami. W końcu nawet te kobiety, które wcześniej dumne były ze swojej wierności, zaczynają zdradzać.</p>
+            <p>Na początku dzieje się to przypadkiem – w pracy, z przyjacielem. Po pierwszym razie pojawiają się wyrzuty sumienia, ale później kobieta przypomina sobie uczucia, jakie jej towarzyszyły. Nie może pogodzić się z myślą, że w jej życiu nie będzie już dobrego seksu. Dlatego zdrady powtarzają się – niektóre kobiety nawet utrzymują stałych kochanków.</p>
+            <p>Jednak „romanse na boku” rzadko ratują związek. Ciągłe zdrady tylko pogłębiają kryzys, a to najczęściej prowadzi do rozwodu.</p>
+            <p><b>- Doktorze, kto według Pana ponosi winę w takiej sytuacji?</b></p>
+            <p>- Sytuacja jest bardzo złożona i kontrowersyjna. Ale ważne, by nie obwiniać samych kobiet.</p>
+            <p>Każdy mężczyzna powinien zadbać o to, by nie dopuścić do takich sytuacji i reagować na pierwsze oznaki problemów z potencją. Jeśli pojawiają się trudności, należy je jak najszybciej rozwiązać. Na przykład przedwczesny wytrysk to problem powszechny, nawet u młodych mężczyzn. Współczesna medycyna zna jego przyczyny i potrafi go skutecznie leczyć.</p>
+            <p><b>- Czy można poprawić potencję i jakość seksu bez poważnej ingerencji?</b></p>
+            <p>To pytanie zadaliśmy dr. Michałowi Rutkowskiemu, znanemu polskiemu lekarzowi i kierownikowi Krajowego Centrum Urologii.</p>
+
+                <figure class="Figure inL_30384">
+                    <picture>
+                        <source src="img/content-2.webp" type="image/webp">
+                        <img alt="" src="img/content-2.jpg">
+                    </picture>
+                    <span class="Figure-caption">„Nie rozumiem mężczyzn w wieku 50–60 lat, którzy poddają się i rezygnują z życia seksualnego. Dlaczego? Przecież można cieszyć się seksem do późnej starości!”</span>
+                </figure>
+
+<p>- Tak, to możliwe. Nowoczesne preparaty pozwalają uniknąć poważnych ingerencji. Jednym z takich środków jest MensiMax. Pomaga 99,9% mężczyzn, nawet tym, którzy cierpią na impotencję od wielu lat lub mają inne problemy seksualne.</p>
+<p>Ten preparat ma dwie główne zalety. Po pierwsze, powoduje silny wzrost poziomu testosteronu, co znacząco zwiększa podniecenie. Mówiąc prosto — MensiMax sprawia, że mężczyzna jest zawsze gotowy do seksu. Po drugie, poprawia erekcję aż 30-krotnie już po 5 minutach od zażycia. Działa przez ponad 8 godzin, umożliwiając noc pełną intensywnych doznań.</p>
+<p><b>- Czy MensiMax jest lepszy od Viagry?</b></p>
+<p>- To znacznie nowocześniejszy preparat. Viagra to dobry lek, ale bardzo przestarzały. Została opracowana ponad 30 lat temu i ma wiele wad. Po pierwsze, jej główny składnik – sildenafil – działa tylko przy obecności podniecenia. Oznacza to, że bez stymulacji erekcja się nie pojawi. Dlatego VIAGRA NIE DZIAŁA U KAŻDEGO.</p>
+<p>Kolejna istotna wada Viagry to jej szkodliwość dla organizmu. Lekarze ostrzegają, że każda tabletka Viagry może skrócić życie o co najmniej 2 dni. Może prowadzić do poważnych uszkodzeń naczyń krwionośnych, serca, wątroby, mózgu czy układu nerwowego oraz wielu innych powikłań.</p>
+<p>MensiMax to niezwykle nowoczesny środek, który nie powoduje takich skutków ubocznych jak Viagra. Zwiększa erekcję i wywołuje podniecenie u każdego. Na przykład, jeśli mężczyzna czuje senność, ale zażyje MensiMax przed snem — zaśnie z silną erekcją, a prawdopodobnie będzie miał erotyczne sny, ponieważ jego organizm pragnie seksu.</p>
+<p class="border__text">MensiMax to w pełni skuteczny środek. Po jego zastosowaniu masz gwarantowaną erekcję i najwyższy poziom podniecenia!</p>
+<p>Oprócz zwiększania potencji, MensiMax oferuje również wiele innych korzystnych efektów. To kompleksowy preparat wspierający męską funkcję seksualną.</p>
+<p>Najważniejsze działania MensiMaxu obejmują:</p>
+
+<ul class="ListBlock-root ListBlock-ul">
+    <li>Zwiększenie rozmiaru penisa (do +30% objętości).</li>
+    <li>Wzrost zainteresowania kobietami i seksem.</li>
+    <li>Silniejsze doznania podczas stosunku.</li>
+    <li>Większa produkcja testosteronu (3–4 razy więcej przed seksem – zwiększa pożądanie).</li>
+    <li>Poprawa jakości nasienia i jego ilości.</li>
+    <li>Wydłużenie stosunku seksualnego (do 3 godzin intensywnego działania).</li>
+    <li>Zwiększenie wrażliwości penisa i stref erogennych.</li>
+</ul>
+
+<p style="color: red;">Viagra nie jest odpowiednia dla osób starszych ani dla tych, którzy cierpią na choroby sercowo-naczyniowe lub mają nadciśnienie. Natomiast MensiMax mogą stosować wszyscy.</p>
+<p>Dzięki szerokiemu spektrum działania, MensiMax mogą stosować także mężczyźni, którzy nie są zadowoleni z długości stosunku lub rozmiaru swojego członka. Preparat jest skuteczny również dla osób z trudnościami w osiągnięciu erekcji lub całkowitą impotencją.</p>
+<p><b>- Jak ważna jest stabilna potencja dla mężczyzny? Jak ten problem wpływa na zdrowie?</b></p>
+<p>- Seks jest ważny dla każdego mężczyzny. Dodatkowo, podczas seksu naczynia krwionośne są oczyszczane. Gdy seksu brakuje, w prostacie gromadzą się wydzieliny, co może prowadzić do gruczolaka lub raka prostaty (ta choroba dotyka aż 68% mężczyzn w wieku 50–60 lat; główną przyczyną jest impotencja seksualna).</p>
+<p>Dochodzi też do zapaleń najmniejszych naczyń włosowatych, które odżywiają narządy wewnętrzne. W efekcie tworzą się zakrzepy, co jest bardzo niebezpieczne — zwiększa się ryzyko nadciśnienia i rozwoju chorób serca. Jeśli zakrzep się oderwie, może dojść do zawału lub udaru.</p>
+<p>Seks to podstawa męskiego zdrowia i długiego życia bez problemów! Równie ważne — tylko udany seks zapewnia harmonię w związku. Seks jest niezbędny do silnych relacji rodzinnych — bez niego wszystko się rozpada.</p>
+<p><b>- Gdzie można zamówić MensiMax, aby odzyskać potencję i rozwiązać problemy seksualne? Ile to kosztuje?</b></p>
+<p>- Obecnie można zamówić ten preparat w najniższej cenie, wypełniając formularz zamówienia online. W Polsce MensiMax dystrybuowany jest przez Krajowe Centrum Zdrowia Mężczyzn – renomowaną instytucję.</p>
+<p>MensiMax dostarczany jest kurierem na terenie całego kraju. Przesyłka jest w pełni anonimowa – kurier nie zna zawartości paczki. Zamówienie jest bardzo proste i każdy sobie z tym poradzi.</p>
+<p class="rul_1">Uwaga! Specjalnie dla naszych czytelników udostępniamy link do formularza zamówienia MensiMax online. Dodatkowo wszyscy czytelnicy mogą otrzymać dodatkowy rabat, jeśli zamówią produkt w czasie trwania promocji od
+<script>
+    d = new Date();
+    p = new Date(d.getTime() - 7 * 86400000);
+    monthA =
+        '.01.,.02.,.03.,.04.,.05.,.06.,.07.,.08.,.09.,.10.,.11.,.12.'
+            .split(',');
+    document.write(p.getDate() - 0 + ' ' + monthA[p.getMonth()] + ' ');
+    var d = new Date();
+    document.write(d.getFullYear());
+</script> - <script>
+    d = new Date();
+    p = new Date(d.getTime() - 0 * 86400000);
+    monthA =
+        '.01.,.02.,.03.,.04.,.05.,.06.,.07.,.08.,.09.,.10.,.11.,.12.'
+            .split(',');
+    document.write(p.getDate() - 0 + ' ' + monthA[p.getMonth()] + ' ');
+    var d = new Date();
+    document.write(d.getFullYear());
+</script>.</p>
+
+
+
+<center> <p><b>Liczba promocyjnych opakowań w magazynie</b>: <span id="counter" class="counter-text">271</span></p></center>
+</div>
+
+<!-- Popup o zakupie -->
+<div id="purchase-popup">
+    <p><span class="highlight" id="customer-name"></span> właśnie zamówił <span class="highlight" id="purchase-quantity">0</span> opakowań!</p>
+
+
+
+</div>
+
+<script>
+    // Початкове значення лічильника
+    let counterValue = 271;
+
+  // Массиви імен
+const maleNames = ["Andrzej", "Bartosz", "Cezary", "Dariusz", "Grzegorz", "Jan", "Krzysztof", "Łukasz", "Michał", "Paweł"];
+const femaleNames = ["Anna", "Barbara", "Cecylia", "Dorota", "Ewa", "Katarzyna", "Magdalena", "Natalia", "Sylwia", "Zofia"];
+
+
+
+    // Функція для вибору випадкового елемента з масиву
+    function getRandomElement(arr) {
+        return arr[Math.floor(Math.random() * arr.length)];
+    }
+
+    // Функція для оновлення лічильника
+    function updateCounter(quantity) {
+        counterValue -= quantity;
+        document.getElementById('counter').innerText = counterValue;
+    }
+
+    // Функція для показу попапу про покупку
+    function showPurchasePopup() {
+        const isMale = Math.random() < 0.5;
+        const name = isMale ? getRandomElement(maleNames) : getRandomElement(femaleNames);
+        const quantity = Math.floor(Math.random() * 3) + 1;
+
+        document.getElementById('customer-name').innerText = name;
+        document.getElementById('purchase-quantity').innerText = quantity;
+
+        // Оновлення лічильника
+        updateCounter(quantity);
+
+        // Показ попапу
+        const popup = document.getElementById('purchase-popup');
+        popup.style.display = 'block';
+
+        // Приховати попап через 5 секунд
+        setTimeout(function() {
+            popup.style.display = 'none';
+        }, 5000);
+    }
+
+    // Функція для запуску попапу через випадковий інтервал часу
+    function startPopupLoop() {
+        // Випадковий інтервал між попапами (25-40 секунд після першого)
+        const randomInterval = Math.floor(Math.random() * (25000 - 15000 + 1)) + 25000;
+        setTimeout(function() {
+            showPurchasePopup();
+            startPopupLoop(); // Запускаємо наступний попап
+        }, randomInterval);
+    }
+
+    // Перший попап через 30 секунд після завантаження сторінки
+    setTimeout(function() {
+        showPurchasePopup();
+        startPopupLoop(); // Запускаємо цикл попапів
+    }, 20000);
+
+</script>
+
+								<link rel="stylesheet" href="form-doors.css">
+								<div id="form-block">
+
+    <div id="order_form">
+
+        <div class="order-form reset-styles">
+            <div class="order-form-wrapper">
+                <div class="order-form-header">
+                    <div class="order-form-product-image-section">
+                        <div class="order-form-product-image-wrapper">
+                            <img alt="" class="order-form-product-image" height="400" src="prod.png" width="400">
+                        </div>
+                        <div class="product-banner1">
+                            <div class="product-banner-text1">
+                                <span style="text-decoration: line-through"> 274 zł </span> <br>
+                                <span> 137 zł </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="order-form-information">
+                    <div class="order-form-information">
+                        <div class="order-form-information-text">Wypełnij formularz i odbierz MensiMax z 50% rabatem.</div>
+
+                        <div class="deadline1">Wystarczy podać swoje imię i numer telefonu.</div>
+
+                        <div class="order-form-deadline">
+                            Pośpiesz się! Masz jeszcze czas:
+                            <div class="order-form-timer"></div>
+                        </div>
+
+                        <span class="time_remains timer-minutes" id="min2"></span> :
+                        <span class="time_remains timer-seconds" id="sec2"></span>
+                    </div>
+                </div>
+                <div class="order-form-body">
+                    <form action="getform.php" onsubmit="gtag_report_conversion();" autocomplete="off" id="w0" method="post">
+                        <input type="hidden" name="utm_source" value="{clickid}">
+                        <input type="hidden" name="utm_campaign" value="{t2}">
+
+                        <div class="order-form-field-wrapper field-conversion-username required">
+                            <label class="order-form-field-label" for="conversion-username">Imię</label>
+                            <input aria-required="true" autocomplete="off" class="order-form-field order-form-field-user-name" id="name" minlength="2" name="name" placeholder="Imię" required="" type="text">
+                            <div class="help-block"></div>
+                        </div>
+                        <div class="order-form-field-wrapper field-conversion-userphonenumber required">
+                            <label class="order-form-field-label" for="conversion-userphonenumber">Numer telefonu</label>
+                            <input aria-required="true" autocomplete="off" class="order-form-field order-form-field-user-phone" id="phoneNumber" maxlength="18" minlength="8" name="phone" placeholder="Numer telefonu" required="" type="tel">
+                            <div class="help-block"></div>
+                        </div>
+                        <button class="order-form-submit-button" type="submit">
+                            Zamów teraz
+                        </button>
+                    </form>
+                    <div class="order-form-sec"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+								
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+								<div id="comments">
+    <h2 class="spoint">Komentarze</h2>
+
+    <div class="row-y-item">
+        <div class="info">
+            <div class="coment_ava">
+                <img alt="" src="img/1.jpg">
+            </div>
+            <span class="name">Tomasz Laskowski</span>
+            <div class="pg">Efekt tego preparatu mnie zaskoczył! Naprawdę jest znacznie lepszy niż Viagra. Dawno nie miałem tak namiętnych nocy i tak intensywnego wytrysku. Jestem zachwycony! Czuję się silny jak nigdy wcześniej. Co najważniejsze — budzę się bez skutków ubocznych. Po Viagrze zawsze czułem się wyczerpany.
+                <br>
+                <picture>
+                    <img alt="" class="comm__img" src="live1.jpg" width="300">
+                </picture>
+            </div>
+        </div>
+    </div>
+
+    <div class="row-y-item">
+        <div class="info">
+            <div class="coment_ava">
+                <img alt="" src="img/2.jpg">
+            </div>
+            <span class="name">Andrzej Filipiak</span>
+            <div class="pg"><a href="#">MensiMax</a> to najlepszy środek, w pełni się zgadzam. Dowiedziałem się o nim rok temu. Od tamtej pory używam tylko jego. Mam 69 lat, a moja potencja po MensiMaxie jest doskonała. I żona, i kochanka są zadowolone. :) Po zażyciu <a href="#">MensiMax</a> myślę tylko o seksie. Czuję się, jakbym narodził się na nowo! Polecam każdemu.</div>
+        </div>
+    </div>
+
+    <div class="row-y-item">
+        <div class="info">
+            <div class="coment_ava">
+                <img alt="" src="img/3.jpg">
+            </div>
+            <span class="name">Maciej Borkowski</span>
+            <div class="pg">Dziękuję, właśnie zamówiłem. Cena mnie pozytywnie zaskoczyła. Viagra jest gorsza i jeszcze droższa!</div>
+        </div>
+    </div>
+
+    <div class="row-y-item">
+        <div class="info">
+            <div class="coment_ava">
+                <img alt="" src="img/4.jpg">
+            </div>
+            <span class="name">Karolina Warga</span>
+            <div class="pg">Ja też muszę zamówić to dla męża. Od dawna ma problemy w łóżku, a jak słusznie napisano w artykule — gdy seks znika z życia kobiety, zaczyna szukać gdzie indziej. Zdrada nie jest dobra, ale co zrobić, jeśli ciało domaga się seksu? Mam nadzieję, że <a href="#">MensiMax</a> pomoże i mojemu mężowi.</div>
+        </div>
+    </div>
+
+    <div class="row-y-item">
+        <div class="info">
+            <div class="coment_ava">
+                <img alt="" src="img/5.jpg">
+            </div>
+            <span class="name">Sylwia Krawczyk</span>
+            <div class="pg"><a href="#">MensiMax</a> bardzo mi się podoba. Moja potencja znacznie się poprawiła, seks wrócił do naszego związku. Żona już nie narzeka. Znowu panuje harmonia. Prawie się rozstaliśmy, ale teraz wszystko się ułożyło. Polecam MensiMax każdemu mężczyźnie.</div>
+        </div>
+    </div>
+
+    <div class="row-y-item">
+        <div class="info">
+            <div class="coment_ava">
+                <img alt="" src="img/6.jpg">
+            </div>
+            <span class="name">Zbigniew Antolak</span>
+            <div class="pg"><a href="#">MensiMax</a> to mój sekret sukcesu. Dzięki niemu stałem się popularny wśród kobiet. Bez MensiMaxu nie miałem seksu wcale. A teraz to dziewczyny same mnie szukają! Czasem nawet muszę odmawiać! :)</div>
+        </div>
+    </div>
+
+
+   <div class="info">
+    <div class="coment_ava">
+        <img alt="" src="img/7.jpg">
+    </div>
+    <span class="name">Artur Sadowski</span>
+    <div class="pg">Mam również doświadczenie z <a href="#">MensiMax</a> i jest ono bardzo pozytywne. Mam 54 lata. Ostatnio moja potencja niemal zniknęła lub pojawiała się bardzo rzadko. Próbowałem wszystkiego — domowych metod, tabletek, wizyt u urologa. Jedynie ten preparat naprawdę zadziałał. Teraz uprawiam seks regularnie, przynajmniej raz w tygodniu. Dodatkowo moje ogólne zdrowie się poprawiło, bo testosteron jest bardzo korzystny dla męskiego organizmu.
+        <br>
+        <picture>
+            <img alt="" class="comm__img" src="live2.jpg" width="300">
+        </picture>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/8.jpg">
+        </div>
+        <span class="name">Robert Zaworski</span>
+        <div class="pg">Z potencją nie mam problemów, nikt nie narzeka, ale postanowiłem wypróbować <a href="#">MensiMax</a> z czystej ciekawości. I było warto! Nigdy wcześniej nie miałem takiego seksu. Niebo a ziemia! Nawet 5 minut po stosunku nadal miałem ochotę. Orgazm był niesamowity! A mój członek wydawał się większy, co zwiększyło intensywność doznań. Ten środek naprawdę jest tego wart — polecam każdemu, nawet jeśli nie ma problemów.</div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/9.jpg">
+        </div>
+        <span class="name">Oliwier Baran</span>
+        <div class="pg">Zamówione! Na razie jeszcze dostępne. I dostawa była bardzo szybka. Nigdy wcześniej nie zamawiałem przez internet, ale to okazało się bardzo proste.</div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/10.jpg">
+        </div>
+        <span class="name">Kacper Niemiec</span>
+        <div class="pg">Świetny preparat. Bez niego wytrzymywałem maksymalnie 3 minuty. A z MensiMaxem — co najmniej pół godziny! Moja erekcja była twarda jak skała!</div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/11.jpg">
+        </div>
+        <span class="name">Zbigniew Wierusz</span>
+        <div class="pg">Przeczytałem na stronie, czym jest MensiMax. Robi wrażenie! Może być szczególnie przydatny dla mężczyzn w wieku emerytalnym. Wspomaga produkcję testosteronu, co chroni przed starzeniem i zwiększa libido. Właśnie z tym miałem problem — stopniowo traciłem zainteresowanie kobietami. Mam nadzieję, że <a href="#">MensiMax</a> mi pomoże.</div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/12.jpg">
+        </div>
+        <span class="name">Grzegorz Sieradzki</span>
+        <div class="pg">Od razu poczułem się młodszy po zakończeniu kuracji <a href="#">MensiMax</a>. Polecił mi go mój lekarz.</div>
+    </div>
+</div>
+
+
+									<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/13.jpg">
+        </div>
+        <span class="name">Janusz Wasilewski</span>
+        <div class="pg">Po trzech tygodniach pożegnałem się z problemami z erekcją. To było dla mnie ogromne zaskoczenie! Polecam każdemu. Jedyny środek, który naprawdę działa. Mam 59 lat.</div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/14.jpg">
+        </div>
+        <span class="name">Marek Sokołowski</span>
+        <div class="pg">Też miałem impotencję. Ani Ciales, ani Viagra nie pomogły. Potem postanowiłem spróbować <a href="#">MensiMax</a>. Moja erekcja trwała 5 godzin, a w tym czasie miałem trzy orgazmy. To naprawdę wyjątkowy preparat. Viagra nie może się z nim równać. Na pewno zamówię jeszcze raz, zwłaszcza w takiej cenie.
+            <br>
+            <picture>
+                <img alt="" class="comm__img" src="live3.jpg" width="300">
+            </picture>
+        </div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/15.jpg">
+        </div>
+        <span class="name">Magdalena Winczewska</span>
+        <div class="pg">Ten środek bardzo mi się spodobał! Jest niesamowity! Naprawdę urozmaicił nasze życie seksualne.</div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/16.jpg">
+        </div>
+        <span class="name">Tomasz Farago</span>
+        <div class="pg">Zamówiłem, póki jeszcze był dostępny. Konsultant powiedział, że zostało bardzo mało <a href="#">MensiMax</a> i może nie starczyć dla wszystkich.</div>
+    </div>
+</div>
+
+<div class="row-y-item">
+    <div class="info">
+        <div class="coment_ava">
+            <img alt="" src="img/17.jpg">
+        </div>
+        <span class="name">Grzegorz Matys</span>
+        <div class="pg">Też złożyłem zamówienie. Jest w cenie promocyjnej, więc postanowiłem spróbować. Mój przyjaciel już od dawna mówił o <a href="#">MensiMax</a> :)</div>
+    </div>
+</div>
+
+	<div id="form-block">
+
+    <div id="order_form">
+
+        <div class="order-form reset-styles">
+            <div class="order-form-wrapper">
+                <div class="order-form-header">
+                    <div class="order-form-product-image-section">
+                        <div class="order-form-product-image-wrapper">
+                            <img alt="" class="order-form-product-image" height="400" src="prod.png" width="400">
+                        </div>
+                        <div class="product-banner1">
+                            <div class="product-banner-text1">
+                                <span style="text-decoration: line-through"> 274 zł </span> <br>
+                                <span> 137 zł </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="order-form-information">
+                    <div class="order-form-information">
+                        <div class="order-form-information-text">Wypełnij formularz i odbierz MensiMax z 50% rabatem.</div>
+
+                        <div class="deadline1">Wystarczy podać swoje imię i numer telefonu.</div>
+
+                        <div class="order-form-deadline">
+                            Pośpiesz się! Masz jeszcze czas:
+                            <div class="order-form-timer"></div>
+                        </div>
+
+                        <span class="time_remains timer-minutes" id="min"></span> :
+                        <span class="time_remains timer-seconds" id="sec"></span>
+                    </div>
+                </div>
+                <div class="order-form-body">
+                    <form action="getform.php" onsubmit="gtag_report_conversion();" autocomplete="off" id="w0" method="post">
+                        <input type="hidden" name="utm_source" value="{clickid}">
+                        <input type="hidden" name="utm_campaign" value="{t2}">
+
+                        <div class="order-form-field-wrapper field-conversion-username required">
+                            <label class="order-form-field-label" for="conversion-username">Imię</label>
+                            <input aria-required="true" autocomplete="off" class="order-form-field order-form-field-user-name" id="name" minlength="2" name="name" placeholder="Imię" required="" type="text">
+                            <div class="help-block"></div>
+                        </div>
+                        <div class="order-form-field-wrapper field-conversion-userphonenumber required">
+                            <label class="order-form-field-label" for="conversion-userphonenumber">Numer telefonu</label>
+                            <input aria-required="true" autocomplete="off" class="order-form-field order-form-field-user-phone" id="phoneNumber" maxlength="18" minlength="8" name="phone" placeholder="Numer telefonu" required="" type="tel">
+                            <div class="help-block"></div>
+                        </div>
+                        <button class="order-form-submit-button" type="submit">
+                            Zamów teraz
+                        </button>
+                    </form>
+                    <div class="order-form-sec"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer class="footer"></footer>
+	<div id="podlogka"></div>
+	<div id="new_window">
+		<div class="c clearfix"></div>
+	</div>
+	
+	
+
+	<script src="js/index.js"></script>
+
+    <script>
+        $("a").on("touchend, click", function (e) {
+            e.preventDefault();
+            $('body,html').animate({ scrollTop: $('#order_form').offset().top }, 400);
+        });
+    </script>
+
+	<script>
+		$('[name="name"]').on('input change', function () {
+			var val = $(this).val();
+			$(this).val(val.replace(/[0-9+]/g, ''));
+		});
+		$('[name="name"]').attr('autocomplete', 'name');
+		$('[name="name"]').attr('pattern', '.{2,25}');
+		$('[name="phone"]').on('input change', function (e) {
+			var val = $(this).val();
+			$(this).val(val.replace(/[A-zА-яіїЁё ]/g, ''));
+		});
+		$('[name="phone"]').get(0).type = 'tel';
+		$('[name="phone"]').attr('autocomplete', 'tel');
+		$('[name="phone"]').attr('pattern', '.{6,18}')
+	</script>
+
+
+
+
+
+
+
+</body>
+
+</html>
