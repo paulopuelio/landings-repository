@@ -1,0 +1,47 @@
+#countdown_dashboard {
+    max-width: 408px;
+    width: 100%;
+}
+
+#countdown_dashboard2 {
+    max-width: 408px;
+    width: 100%;
+}
+
+.dash {
+    width: 92px;
+    height: 65px;
+    background: transparent url('../images/dash.png') 0 0 no-repeat;
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+#countdown_dashboard .dash:last-child {
+    margin-right: 0;
+}
+
+.dash .digit {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 48px;
+    float: left;
+    padding: 0 8px;
+    color: #000000;
+}
+
+.dash .digit:first-child {
+    margin-right: 4px;
+}
+
+.seconds_dash .digit {
+    color: #ea0b12;
+}
+
+.dash_title {
+    display: block;
+    color: #ffffff;
+    padding-top: 76%;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
